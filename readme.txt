@@ -18,3 +18,5 @@ PB15 - SD卡-MOSI
 上电后只亮LED1表示SD卡错误
 两个LED都亮时按按钮开始播放
 SD需要HDD模式MBR分区表
+
+视频 https://www.bilibili.com/video/av42456330/
