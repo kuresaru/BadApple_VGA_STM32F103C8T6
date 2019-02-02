@@ -1,0 +1,1 @@
+ffmpeg -i "BAD APPLE 1080P.mp4" -vf scale=400:200 -r 25 -f image2 img/%05d.jpg
